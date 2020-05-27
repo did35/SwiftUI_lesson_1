@@ -2,7 +2,7 @@
 Learning Functional programming
 
 Course from Stanford university Spring 2020, lecture 1.
-URL: https://youtu.be/jbtqIBpUG7g
+\nURL: https://youtu.be/jbtqIBpUG7g
 
 Screenshot of the app:
 
