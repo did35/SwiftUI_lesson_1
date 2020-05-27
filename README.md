@@ -5,7 +5,7 @@ Course from Stanford university Spring 2020, lecture 1.
 
 Screenshot of the app:
 
-![](image/screenshot.png)
+<img src = "image/screenshot.png" width = "300px" height = "600px" />
 
 Available free on YouTube at the following URL:
 
