@@ -7,7 +7,4 @@ Screenshot of the app:
 
 <img src = "image/screenshot.png" width = "300px" height = "600px" />
 
-Available free on YouTube at the following URL:
-
-https://youtu.be/jbtqIBpUG7g
 
